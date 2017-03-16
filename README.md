@@ -31,8 +31,8 @@ On the Map is tastefully designed with the following additional features:
 ## Authors
 * [Ramesh Parthasarathy](mailto:msg.rameshp@gmail.com)
 ## License
-On the Map is licensed under [MIT License](https://github.com/Ramesh-P/virtual-tourist/blob/master/LICENSE)
+On the Map is licensed under [MIT License](https://github.com/Ramesh-P/on-the-map/blob/master/LICENSE)
 ## Credits
 On the Map uses icons from:
 <pre>http://www.flaticon.com</pre>
-Attributions can be found on Credits.rtf and/or elsewhere within the code files
+Attributions can be found on `Credits.rtf` and/or elsewhere within the code files
