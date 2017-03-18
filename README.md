@@ -1,14 +1,14 @@
 # On the Map
 ![Alt Text](https://github.com/Ramesh-P/on-the-map/blob/master/On%20the%20Map/Assets.xcassets/AppIcon.appiconset/Icon-60%403x.png)
 ## Overview
-On The Map app allows users to share their location and a URL representing their work or interest with their fellow students. To visualize this data, On The Map uses a map with pins for location and pin annotations for student names and URLs, allowing students to place themselves on the map symbolically.
+On The Map app allows users to share their location and a URL representing their work or interest with their fellow students. To visualize this data, On The Map uses a map with pins for location and pin annotations for student names and URLs, allowing students to place themselves on the map symbolically. The complete project specification for On the Map can be found [here](https://docs.google.com/document/d/1tPF1tmSzVYPSbpl7_JCeMKglKMIs3dUa4OrSAKEYNAs/pub?embedded=true)
 ## Specification
 On the Map is built and tested for the following software versions:
 * Xcode 8.1
 * iOS 10.0 (Minimum)
 * Swift 3.0.1 
 ## Preview
-
+![on-the-map](https://cloud.githubusercontent.com/assets/25907551/24069455/c7b0c8e2-0b7e-11e7-948a-dd9596655e27.gif)
 ## Features
 On the Map incorporates all the features stipulated by Udacity and extra credit and additional features as listed below.
 ### Extra Credit Features
