@@ -8,7 +8,7 @@ On the Map is built and tested for the following software versions:
 * iOS 10.0 (Minimum)
 * Swift 3.0.1 
 ## Preview
-![on-the-map](https://cloud.githubusercontent.com/assets/25907551/24069455/c7b0c8e2-0b7e-11e7-948a-dd9596655e27.gif)
+![on-the-map](https://cloud.githubusercontent.com/assets/25907551/24085471/3510f39e-0cd3-11e7-87b1-4d350d90fefa.gif)
 ## Features
 On the Map incorporates all the features stipulated by Udacity and extra credit and additional features as listed below.
 ### Extra Credit Features
